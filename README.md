@@ -18,6 +18,9 @@ Bienvenido a mi repositorio donde voy a ir subiendo todos los programas Python q
    - [nombreyedad.py](https://github.com/joysantalola/Python/blob/main/Python%20b%C3%A1sico/nombreyedad.py)
    - Este programa muestra la edad de Ana y la edad.
 
+4. **Precio con impuesto**
+   - [precio_impuesto.py](https://github.com/joysantalola/Python/blob/main/Python%20b%C3%A1sico/precio_impuesto.py)     
+   - Este programa le calcula el impuesto del 21% a 100€.
 ## Información sobre el autor
 
 - **Nombre:** Oleguer Esteo Martínez
