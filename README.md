@@ -12,11 +12,11 @@ Bienvenido a mi repositorio donde voy a ir subiendo todos los programas Python q
 
 2. **Suma de dos números**
    - [suma.py](https://github.com/joysantalola/Python/blob/main/Python%20b%C3%A1sico/suma.py)
-   - Este programa solicita dos números al usuario y devuelve su suma.
+   - Este programa devuelve el resultado de 2 + 3.
 
 3. **Nombre y Edad**
    - [nombreyedad.py](https://github.com/joysantalola/Python/blob/main/Python%20b%C3%A1sico/nombreyedad.py)
-   - Este programa pide al usuario su nombre y edad y los imprime.
+   - Este programa muestra la edad de Ana y la edad.
 
 ## Información sobre el autor
 
